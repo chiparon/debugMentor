@@ -1,0 +1,4 @@
+interface:
+  display_name: "Debug Mentor"
+  short_description: "Learn breakpoint-driven backend debugging"
+  default_prompt: "Use $debug-mentor to guide me through finding this backend bug with breakpoints and evidence."
